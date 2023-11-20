@@ -1,0 +1,49 @@
+PYTHON 2ND VIDEO 
+# Python Tutorial  
+# Details Tutorial for complete beginners
+# 2nd Video of playlist 
+# Complete Tutorial with different Assignements and Real life Problems
+# With Small and Advance Python Projects
+#IF you don`t know how to install python, i have complete video on that.
+"""
+What is python?
+Python is a versatile high level programming language. [you can use it in ( games, data science, Ai , machine learning , web development, hacking  etc) ]
+& it known for its readbility and ease of use. and its very easy then other programming language.
+
+why python?
+versatile,  used in many ( just like web development, data science and ai machine learning and more )
+eas of learning,  ( simple and easy )
+high in demand,  (python developer are in high demand around the world, competitive salaries)
+high salary,    ( Round about 80k dollar to 100k dollar in US) Mostly based on experience. intermediate level salary round about ( 80k to 140k ) .. if you have 10+ year experience range ( 150k dollar to 190k dollar )
+#  salary in dubai round about 330k AED round about to 450k AED
+"""
+#let me give some python overview
+"""
+
+Python Basics:
+    Variable, datatypes, operator, control flow , if statement , loops function, and other modules
+    
+intermediate python:
+    lists, dictionaries, sets , file handling, {just like reading  and writing } Error handling with try excepts.
+    
+Advance python: 
+    OOP( object oriented programming.) Decorators and generators, regualar expression.
+
+Web Development python:
+    Flask or Djangon framework you can use, handling HTTp requests and responses.
+
+Data science with python:
+    Numpy, pandas for data manipulation, matplotlib, seaborn for data visualization, scikit learn for machinae learning basics.
+
+Additional tools:
+    virtual ENviroment for project isolation, package management with pip, version control with git
+    
+Now let me tell How you can learn python and become a developer.
+
+Practice pratice practice:
+    work on coding, build small/big projects. practice is cruicial for mastering python. 
+    
+In the next video I will be starting coding so grab your laptop/PC. 
+Thank you Soo much ......
+please like and subscribe this channel .    
+You can download these from github. link will be in the description. """
