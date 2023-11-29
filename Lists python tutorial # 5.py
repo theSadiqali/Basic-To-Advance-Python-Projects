@@ -8,6 +8,7 @@
                                     #   BASIC TO ADVANCE      #
                                     #=========================#
                                     #TODAY TOPICS LISTS
+https://www.youtube.com/@Thesadiqali11
 #1 lists are Ordered    
 #2 lists can contain any arbitrary objects
 #3 list elements can be accessed by index 
